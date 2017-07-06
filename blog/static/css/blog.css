@@ -1,3 +1,10 @@
-h1 a {
-    color: #00FF2F;
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color:  cyan;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  font-size: 300%;
+}
+
+body {
+    padding-left: 15px;
 }
